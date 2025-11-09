@@ -1,7 +1,5 @@
 # Emo — Multimodal Emotion-Aware Assistant
 
-**Repository:** `hmnshudhmn24/emo-multimodal-assistant`
-
 **Short:** An advanced assistant that detects user emotion from text *and image*, and responds empathetically by conditioning a text-generator (T5) on the detected emotions.
 
 **Components**
