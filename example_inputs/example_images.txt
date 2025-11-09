@@ -1,0 +1,4 @@
+# Put image file paths or URLs here for testing image emotion detection.
+# Example:
+# ./examples/sad_person.jpg
+# ./examples/happy_group.jpg
