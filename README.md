@@ -1,19 +1,3 @@
----
-language: en
-license: apache-2.0
-datasets: [go_emotions, empathetic_dialogues]
-pipeline_tag: text-generation
-library_name: transformers
-tags:
-  - multimodal
-  - emotion-detection
-  - empathetic-chatbot
-  - t5
-  - clip
-  - streamlit
-base_model: t5-small
----
-
 # Emo — Multimodal Emotion-Aware Assistant
 
 **Repository:** `hmnshudhmn24/emo-multimodal-assistant`
